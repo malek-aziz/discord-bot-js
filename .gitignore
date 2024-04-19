@@ -1,3 +1,5 @@
 devcommands/
 node_modules/
 .env
+.idea
+shell.sh

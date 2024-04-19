@@ -1,5 +1,5 @@
 {
-  "name": "expressbot",
+  "name": "discord-bot-js",
   "version": "1.2.5",
   "description": "A good and functional Discord music and moderation bot in node.js.",
   "main": "server.js",
